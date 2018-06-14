@@ -16,7 +16,7 @@
 -- startup
 
 -- Twitch Name of the Streamer
-streamid = "coolacid"
+streamid = "Ultimatee"
 
 -- Set the Y line for where you want the different bits to go.
 line_streamer = 1
